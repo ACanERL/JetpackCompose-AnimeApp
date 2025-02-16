@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anime-App-JetpackCompose</string>
+    <string name="top_anime">Top Anime</string>
+    <string name="appname">ANiGG</string>
+    <string name="top_character">Top Character</string>
+    <string name="search_anime">Search anime</string>
+   <string name="title_activity_search_anime">Search any Type</string>
+    <string name="title_activity_details">Anime Details</string>
+</resources>
